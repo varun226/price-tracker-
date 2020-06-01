@@ -1,2 +1,2 @@
-# price-tracker-
-looks up the price pf product 
+# price-tracker
+looks up the price of product 
